@@ -51,19 +51,20 @@ _*Mac Users: To view how much RAM is available on your computer, click the apple
 
 _*Windows Users: To view how much RAM is available on your computer, open the 'System Information' application. The computer's RAM is listed next to 'Installed Physical Memory (RAM)'_
 
-_For reference, 1 GB = 1024 MB_
+_For example, on a computer with 16 GB of RAM you might allocate 8GB to the virtual machine (for reference, 1 GB = 1024 MB)_
 
-| Input | |
-| :-- | :-- |
-| Name: | Ubuntu |
-| Machine Folder: (autopopulated) | /Users/yourusername/VirtualBox VMs |
-| Type: | Linux |
-| Version: | Ubuntu (64-bit) |
+![alt text](https://github.com/williamtmills/BioinformaticsforBiologists.github.io/blob/gh-pages/memorysize.png?raw=true)
+
+6. Click 'Continue'.
+7. Fill out the 'Hard disk' form.
 
 
 
 
-To begin, navigate to [VirtualBox](https://virtualbox.org) and click the 'Download 
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/williamtmills/BioinformaticsforBiologists.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
