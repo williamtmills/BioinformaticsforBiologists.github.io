@@ -51,6 +51,8 @@ _*Mac Users: To view how much RAM is available on your computer, click the apple
 
 _*Windows Users: To view how much RAM is available on your computer, open the 'System Information' application. The computer's RAM is listed next to 'Installed Physical Memory (RAM)'_
 
+_For reference, 1 GB = 1024 MB_
+
 | Input | |
 | :-- | :-- |
 | Name: | Ubuntu |
