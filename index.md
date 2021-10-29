@@ -16,7 +16,7 @@ One of the most popular virtual computer programs is called [VirtualBox](https:/
 | [OS X (Mac)](https://download.virtualbox.org/virtualbox/6.1.28/VirtualBox-6.1.28-147628-OSX.dmg) |
 | [Linux](https://www.virtualbox.org/wiki/Linux_Downloads) (users will have to select Linux distribution prior to download)|
 | [Solaris](https://download.virtualbox.org/virtualbox/6.1.28/VirtualBox-6.1.28-147628-SunOS.tar.gz) |
-| [Linux](https://download.virtualbox.org/virtualbox/6.1.28/VirtualBox-6.1.28-147628-Solaris.p5p) |
+| [Solaris 11 IPS](https://download.virtualbox.org/virtualbox/6.1.28/VirtualBox-6.1.28-147628-Solaris.p5p) |
 
 4. Once downloaded, open the package to install it on your computer.
 
@@ -58,7 +58,7 @@ _For example, on a computer with 16 GB of RAM you might allocate 8GB to the virt
 6. Click 'Continue'.
 7. Fill out the 'Hard disk file type' form.
 
-![alt text](https://github.com/williamtmills/BioinformaticsforBiologists.github.io/blob/gh-pages/harddisk.png?raw=true)
+![alt text](https://github.com/williamtmills/BioinformaticsforBiologists.github.io/blob/gh-pages/harddiskfiletype.png?raw=true)
 
 
 
