@@ -53,6 +53,7 @@ _For example, on a computer with 16 GB of RAM you might allocate 8GB to the virt
 6. Click 'Continue'.
 7. Fill out the 'Hard disk' form.
 
+![alt text](https://github.com/williamtmills/BioinformaticsforBiologists.github.io/blob/gh-pages/harddisk.png?raw=true)
 
 
 
