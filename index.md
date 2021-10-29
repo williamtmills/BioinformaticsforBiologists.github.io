@@ -35,12 +35,7 @@ While there are several options Linux distributions (Oracle, Ubundu, Debian, etc
 
 _Though not required, filling out the forms with the information shown will make the rest of the tutorial more easy to follow._
 
-| Input | |
-| :-- | :-- |
-| Name: | Ubuntu |
-| Machine Folder: (autopopulated) | /Users/yourusername/VirtualBox VMs |
-| Type: | Linux |
-| Version: | Ubuntu (64-bit) |
+![alt text](https://github.com/williamtmills/BioinformaticsforBiologists.github.io/blob/gh-pages/nameandoperatingsystem.png?raw=true)
 
 4. Click 'Continue'.
 5. Fill out the 'Memory size' form.
@@ -65,6 +60,14 @@ _For example, on a computer with 16 GB of RAM you might allocate 8GB to the virt
 
 
 
+
+
+| Input | |
+| :-- | :-- |
+| Name: | Ubuntu |
+| Machine Folder: (autopopulated) | /Users/yourusername/VirtualBox VMs |
+| Type: | Linux |
+| Version: | Ubuntu (64-bit) |
 
 You can use the [editor on GitHub](https://github.com/williamtmills/BioinformaticsforBiologists.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
